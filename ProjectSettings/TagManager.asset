@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Patterns
+  - Game Option
+  - Square
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: MainBackground
+    uniqueID: 3606476193
+    locked: 0
+  - name: Background
+    uniqueID: 2894833295
+    locked: 0
+  - name: Outline
+    uniqueID: 2912542083
+    locked: 0
+  - name: Triangle
+    uniqueID: 2034742057
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
